@@ -2,7 +2,13 @@
 
 Testing sketch simplification on artistic paintings (using default model `"model_gan.t7"`)
 
-The sketch simplification ConvNet is at Edgar Simo-Serra's site: [https://github.com/bobbens/sketch_simplification](https://github.com/bobbens/sketch_simplification). The interest of the current project is to test it on artistic paintings (mainly etudes by painters, etc., see below), and not only on images similar to Japanese animes and other drawings, ie., extending it to other artistic paintings (Impressionism, Renaissance, etc).
+# WIP
+
+This project is a *work in progress*. The implementation is *incomplete* and subject to change. The documentation can be inaccurate.
+
+# Details of current repo:
+
+The sketch simplification ConvNet is at Edgar Simo-Serra's site: [https://github.com/bobbens/sketch_simplification](https://github.com/bobbens/sketch_simplification) (read full citations [here](#citation-for-original-work)). The interest of the current project is to test it on artistic paintings (mainly etudes by painters, etc., see below), and not only on images similar to Japanese animes and other drawings, ie., extending it to other artistic paintings (Impressionism, Renaissance, etc).
 
 Note: If you do not possess a CUDA GPU (or it doesn't have enough memory), it is possible to run this ConvNet on the CPU.
 
@@ -82,13 +88,13 @@ Note: If you do not possess a CUDA GPU (or it doesn't have enough memory), it is
 
 ![753px-Shoes_1916_poster_result.jpg](extras/753px-Shoes_1916_poster_result.jpg)
 
-# Citation for original work:
+# A test with a video
 
 A test from a section of a video (the original source is at [https://en.wikipedia.org/wiki/File:London's_Royal_Ballet_I_Portrait_of_a_Dancer_Lauren_Cuthbertson.webm](https://en.wikipedia.org/wiki/File:London's_Royal_Ballet_I_Portrait_of_a_Dancer_Lauren_Cuthbertson.webm)). The result is (click below):
 
-![video.mp4](extras/video.mp4)
+![![video.mp4](extras/video_screenshot.png)](extras/video.mp4)
 
-# Citation for original work:
+# Citation for original work
 
 The citation for the sketch simplification at [https://github.com/bobbens/sketch_simplification](https://github.com/bobbens/sketch_simplification) is:
 
