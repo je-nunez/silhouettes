@@ -8,7 +8,29 @@ This project is a *work in progress*. The implementation is *incomplete* and sub
 
 # Details of current repo:
 
-The sketch simplification ConvNet is at Edgar Simo-Serra's site: [https://github.com/bobbens/sketch_simplification](https://github.com/bobbens/sketch_simplification) (read full citations [here](#citation-for-original-work)). The interest of the current project is to test it on artistic paintings (mainly etudes by painters, etc., see below), and not only on images similar to Japanese animes and other drawings, ie., extending it to other artistic paintings (Impressionism, Renaissance, etc).
+The sketch simplification ConvNet is at Edgar Simo-Serra's site: [https://github.com/bobbens/sketch_simplification](https://github.com/bobbens/sketch_simplification); the full citations for this work are:
+
+      @Article{SimoSerraSIGGRAPH2016,
+         author    = {Edgar Simo-Serra and Satoshi Iizuka and Kazuma Sasaki and Hiroshi Ishikawa},
+         title     = {{Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup}},
+         journal   = "ACM Transactions on Graphics (SIGGRAPH)",
+         year      = 2016,
+         volume    = 35,
+         number    = 4,
+      }
+
+and
+
+      @Article{SimoSerraTOG2018,
+         author    = {Edgar Simo-Serra and Satoshi Iizuka and Hiroshi Ishikawa},
+         title     = {{Mastering Sketching: Adversarial Augmentation for Structured Prediction}},
+         journal   = "ACM Transactions on Graphics (TOG)",
+         year      = 2018,
+         volume    = 37,
+         number    = 1,
+      }
+
+The interest of the current project is to test it on artistic paintings (mainly etudes by painters, etc., see below), and not only on images similar to Japanese animes and other drawings; ie., extending it to other artistic paintings (Impressionism, Renaissance, etc).
 
 Note: If you do not possess a CUDA GPU (or it doesn't have enough memory), it is possible to run this ConvNet on the CPU.
 
@@ -92,29 +114,6 @@ Note: If you do not possess a CUDA GPU (or it doesn't have enough memory), it is
 
 A test from a section of a video (the original source is at [https://en.wikipedia.org/wiki/File:London's_Royal_Ballet_I_Portrait_of_a_Dancer_Lauren_Cuthbertson.webm](https://en.wikipedia.org/wiki/File:London's_Royal_Ballet_I_Portrait_of_a_Dancer_Lauren_Cuthbertson.webm)). The result is (click below):
 
-![![video.mp4](extras/video_screenshot.png)](extras/video.mp4)
+[![video.mp4](extras/video_screenshot.png)](extras/video.mp4)
 
-# Citation for original work
-
-The citation for the sketch simplification at [https://github.com/bobbens/sketch_simplification](https://github.com/bobbens/sketch_simplification) is:
-
-      @Article{SimoSerraSIGGRAPH2016,
-         author    = {Edgar Simo-Serra and Satoshi Iizuka and Kazuma Sasaki and Hiroshi Ishikawa},
-         title     = {{Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup}},
-         journal   = "ACM Transactions on Graphics (SIGGRAPH)",
-         year      = 2016,
-         volume    = 35,
-         number    = 4,
-      }
-
-and
-
-      @Article{SimoSerraTOG2018,
-         author    = {Edgar Simo-Serra and Satoshi Iizuka and Hiroshi Ishikawa},
-         title     = {{Mastering Sketching: Adversarial Augmentation for Structured Prediction}},
-         journal   = "ACM Transactions on Graphics (TOG)",
-         year      = 2018,
-         volume    = 37,
-         number    = 1,
-      }
 
