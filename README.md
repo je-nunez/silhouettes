@@ -46,6 +46,10 @@ Note: If you do not possess a CUDA GPU (or it doesn't have enough memory), it is
 
 ![Van_Gogh_Fishing_Boats_at_Saintes-Maries-de-la-Mer_result.jpg](extras/Van_Gogh_Fishing_Boats_at_Saintes-Maries-de-la-Mer_result.jpg)
 
+* Van Gogh's drawing for "On the Road to Tarascon":
+
+![Van_Gogh_On_the_Road_to_Tarascon_result.jpg](extras/Van_Gogh_On_the_Road_to_Tarascon_result.jpg)
+
 * Van Gogh's drawing for "The Street in Saintes-Maries-de-la-Mer":
 
 ![Van_Gogh_Street_in_Saintes-Maries-de-la-Mer_MET_70U20CH2R1_result.jpg](extras/Van_Gogh_Street_in_Saintes-Maries-de-la-Mer_MET_70U20CH2R1_result.jpg)
@@ -109,6 +113,35 @@ Note: If you do not possess a CUDA GPU (or it doesn't have enough memory), it is
 * Poster for the film "Shoes" (1916):
 
 ![753px-Shoes_1916_poster_result.jpg](extras/753px-Shoes_1916_poster_result.jpg)
+
+# A test with some fonts
+
+Sketch simplification can also transform written text; e.g., on some fonts in a Linux system (with original font_size = 28):
+
+* Font "LiberationMono-Italic":
+
+![result_LiberationMono-Italic.png](extras/result_LiberationMono-Italic.png)
+
+* Font "LiberationMono-Regular":
+
+![result_LiberationMono-Regular.png](extras/result_LiberationMono-Regular.png)
+
+* Font "LiberationSans-Italic":
+
+![result_LiberationSans-Italic.png](extras/result_LiberationSans-Italic.png)
+
+* Font "LiberationSans-Regular":
+
+![result_LiberationSans-Regular.png](extras/result_LiberationSans-Regular.png)
+
+* Font "DejaVuSansMono":
+
+![result_DejaVuSansMono.png](extras/result_DejaVuSansMono.png)
+
+* Font "DejaVuSans":
+
+![result_DejaVuSans.png](extras/result_DejaVuSans.png)
+
 
 # A test with a video
 
