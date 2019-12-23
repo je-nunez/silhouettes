@@ -116,29 +116,29 @@ Note: If you do not possess a CUDA GPU (or it doesn't have enough memory), it is
 
 # A test with some fonts
 
-Sketch simplification can also transform written text; e.g., on some fonts in a Linux system (with original font_size = 28):
+Sketch simplification can also transform written text; e.g., on some fonts in a Linux system (with original font_size = 28, the original text is at upper half of each image, the text after the sketch simplification is at the bottom half of each image):
 
-* Font "LiberationMono-Italic":
+* On the font "Liberation Mono (Italic)":
 
 ![result_LiberationMono-Italic.png](extras/result_LiberationMono-Italic.png)
 
-* Font "LiberationMono-Regular":
+* On the font "Liberation Mono (Regular)":
 
 ![result_LiberationMono-Regular.png](extras/result_LiberationMono-Regular.png)
 
-* Font "LiberationSans-Italic":
+* On the font "Liberation Sans (Italic)":
 
 ![result_LiberationSans-Italic.png](extras/result_LiberationSans-Italic.png)
 
-* Font "LiberationSans-Regular":
+* On the font "Liberation Sans (Regular)":
 
 ![result_LiberationSans-Regular.png](extras/result_LiberationSans-Regular.png)
 
-* Font "DejaVuSansMono":
+* On the font "DejaVu Sans Mono":
 
 ![result_DejaVuSansMono.png](extras/result_DejaVuSansMono.png)
 
-* Font "DejaVuSans":
+* On the font "DejaVu Sans":
 
 ![result_DejaVuSans.png](extras/result_DejaVuSans.png)
 
