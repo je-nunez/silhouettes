@@ -70,6 +70,10 @@ Note: If you do not possess a CUDA GPU (or it doesn't have enough memory), it is
 
 ![Leonardo_da_Vinci_Study_for_Madonna_with_the_Yarnwinder_result.jpg](extras/Leonardo_da_Vinci_Study_for_Madonna_with_the_Yarnwinder_result.jpg)
 
+* Madonna of the Streets:
+
+![Madonna_of_the_Streets_result.jpg](extras/Madonna_of_the_Streets_result.jpg)
+
 * Raphael's drawing for "Portrait of a Woman - WGA18948":
 
 ![Raphael_Portrait_of_a_Woman_WGA18948_result.jpg](extras/Raphael_Portrait_of_a_Woman_WGA18948_result.jpg)
